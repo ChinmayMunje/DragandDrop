@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DragandDrop</string>
+    <string name="language_description">Language Description \n JavaScript is the world most popular lightweight, interpreted compiled programming language. It is also known as scripting language for web pages. It is well-known for the development of web pages, many non-browser environments also use it. JavaScript can be used for Client-side developments as well as Server-side developments.</string>
+    <string name="language_platform">Language Platform \n Web, Desktop, Frontend scripting</string>
+    <string name="language_level">Language level \n Beginner</string>
+    <string name="laguage_name">Laguage Name \n JavaScript</string>
+</resources>
